@@ -30,6 +30,9 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)  
 ![tmux](https://img.shields.io/badge/tmux-1bb91f?style=for-the-badge&logo=gnubash&logoColor=white)
 
+(в пинах висят мои дотфайлы бтв)
+
+
 и конечно же одинокий:
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
